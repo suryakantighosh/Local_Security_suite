@@ -1,0 +1,72 @@
+{
+  "created": "2026-03-26T16:45:07.114850Z",
+  "target": "C:\\Users\\surya\\OneDrive\\Documents\\sem6\\minor\\local_security_suite\\modules",
+  "file_count": 13,
+  "files": {
+    "cis_audit.py": {
+      "sha256": "0d6b00a5e30b324ea60cfde4a16fb4e933a497d93db183b5e55d7297991b6372",
+      "md5": "b2d8b4aee3517b7ab37a37074040d786",
+      "size": 34793
+    },
+    "file_integrity.py": {
+      "sha256": "b12c966ec183aba4bf4c14045109971a72cb7e57fc395016293293a9f9e399bc",
+      "md5": "c366c4b358f0bc9ae9360a385db114f8",
+      "size": 20797
+    },
+    "hardening_engine.py": {
+      "sha256": "a0b6e7f20a540039ee313375e2fd41cb764b075cf61e52024bc246da2cdc6c4a",
+      "md5": "31cea24faa95bf33b9ff232923e0a408",
+      "size": 40420
+    },
+    "network_analyzer.py": {
+      "sha256": "f6f1a218ec5e4585cfbdccef82b31df049c0c8bf3120169115844455bfc2c369",
+      "md5": "cb77b45e67a86f7a7cf72c9be309a285",
+      "size": 19439
+    },
+    "osint_lite.py": {
+      "sha256": "ad6ebebd6581a289e100e7f5b22fe0bed7e9678f92de000ed6de139b4e928368",
+      "md5": "b5023d31fe51dbe46a53d767e2984a70",
+      "size": 26609
+    },
+    "threat_hunt.py": {
+      "sha256": "8df54ed4d9f9dfc3ac67b3b91ae0a8abce7af4a72473843162baab466845c3e6",
+      "md5": "001d240e62af8fa11aa3e76b9daacd16",
+      "size": 37047
+    },
+    "vuln_scanner.py": {
+      "sha256": "67ee989404c57c8df513db58bd9bc5786adcf21af023f71de994a33a15e44d3b",
+      "md5": "dd33a1a7d1c7156616c1de58f533e1cc",
+      "size": 35923
+    },
+    "__init__.py": {
+      "sha256": "656d37ce14eceeaba24883e7ff8c0bff6c42c8e42b1ce6ad3781a6da768a2eae",
+      "md5": "5303ad3427465a68d15e31750b635e51",
+      "size": 135
+    },
+    "__pycache__\\cis_audit.cpython-39.pyc": {
+      "sha256": "5304c1122e805592d989e422e8541aaa2334240d6dd41b28702f1130e697465a",
+      "md5": "5dff0e93535b789684a66aab3c7500c4",
+      "size": 25679
+    },
+    "__pycache__\\file_integrity.cpython-39.pyc": {
+      "sha256": "5662294068b557ce0d0c6032b02556e730e535047d040dc9e02d9609c7b00d8e",
+      "md5": "d3caa388f9ba55ebe565851f54378afd",
+      "size": 14695
+    },
+    "__pycache__\\hardening_engine.cpython-39.pyc": {
+      "sha256": "ccf046d229a9e0fbfab775e882b356a86081b6f9fe3dfb1fbc19aea2852361d2",
+      "md5": "82e4c4767bbc797e482a4bdbb235f0a2",
+      "size": 29935
+    },
+    "__pycache__\\vuln_scanner.cpython-39.pyc": {
+      "sha256": "f9f21b99d04914dc2df15e44defd7c3f30bdfb0fa9cb294343bdd5d328628a21",
+      "md5": "381d37ac379935b8729d54c23cc2f399",
+      "size": 20691
+    },
+    "__pycache__\\__init__.cpython-39.pyc": {
+      "sha256": "077f8e20dc9341084d08746b6db5debb0547f86dff2b1957adf8a3721c607cc9",
+      "md5": "c62c99d4659c702a389902e6c209c216",
+      "size": 316
+    }
+  }
+}
