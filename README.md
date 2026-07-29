@@ -4,6 +4,8 @@
 
 Local Security Suite is a modular command-line tool designed to help engineers and administrators assess host security posture without depending on cloud services, agents, or complex infrastructure. The project brings together CIS-style hardening checks, vulnerability review, threat hunting, file integrity monitoring, network inspection, and lightweight OSINT into a single, approachable workflow.
 
+<img width="1536" height="1024" alt="Overall Architecture" src="https://github.com/user-attachments/assets/a9e9fd33-fa50-41b6-9148-b5036e048c6f" />
+
 ## Why this project exists
 
 Security assessment often requires a collection of disconnected tools, each focused on a narrow problem. Local Security Suite exists to reduce that friction by offering a unified local-first experience for common security tasks such as:
@@ -185,7 +187,12 @@ This repository currently exposes a terminal-first interface rather than a netwo
 4. Persist results for later comparison or incident response use.
 5. Optionally apply hardening actions where appropriate and with proper privileges.
 
+<img width="1536" height="1024" alt="Dataflow Pipeline" src="https://github.com/user-attachments/assets/28ea4b43-d2b1-42b3-bbbf-c9b161415082" />
+
+
 ## Security model
+
+<img width="1536" height="1024" alt="Assesment Module Map" src="https://github.com/user-attachments/assets/18932d93-9016-4daf-9569-5d39357b5170" />
 
 The toolkit is designed for local assessment and does not require a remote service registration or telemetry channel. It is intentionally conservative in scope:
 
@@ -229,6 +236,8 @@ The project is best understood as a modular local assessment platform:
 - results can be saved for later review or expansion
 
 For detailed visual architecture specifications, see the diagram documentation in the docs folder.
+<img width="1536" height="1024" alt="Flow Control" src="https://github.com/user-attachments/assets/3298fc29-1812-44c9-87b5-14bd5553bb06" />
+<img width="1536" height="1024" alt="command Execution flow" src="https://github.com/user-attachments/assets/8d36865e-aa48-409f-b5a8-8e8701d7eed1" />
 
 ## Contributing
 
